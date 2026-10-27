@@ -76,3 +76,7 @@ If needed, use `python3` instead of `python`.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+*Built as part of my python learning journey*
